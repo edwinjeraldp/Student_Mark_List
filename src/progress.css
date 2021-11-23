@@ -1,0 +1,17 @@
+.studentMarksContainer {
+  display: flex;
+  width: 50%;
+  border-top: 50px;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.totalContainer {
+  width: 100vw;
+  margin-top: 100px;
+  padding: 30px;
+}
+.studentinputField {
+  padding: 20px;
+}
